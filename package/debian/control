@@ -1,0 +1,12 @@
+Source: gittown
+Maintainer: allonsy <linuxbash8@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>=9)
+
+Package: gittown
+Architecture: all
+Depends: git,dialog
+Description: a helper for git workflows
+ this is blank
