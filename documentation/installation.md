@@ -72,6 +72,7 @@ Git Town runs anywhere Git and [Bash](https://www.gnu.org/software/bash/bash.htm
 </table>
 
 ## Linux
+All linux packages are currently maintained by [allonsy](https://github.com/allonsy). If you have any installation issues, please contact him.
 
 ### Arch Linux
  * git-town is available in the aur [here](https://aur.archlinux.org/packages/git-town/)

@@ -3,10 +3,10 @@
 Instructions on how to update all the necessary packages once a new release is out
 
 ## Linux
-The current linux (all distros) maintainer is @allonsy. If an update occurs, please bug him
+The current linux (all distros) maintainer is [allonsy](https://github.com/allonsy). If an update occurs, please bug him
 ### Arch Linux
 The package will need to be flagged out of date [here](https://aur.archlinux.org/packages/git-town/)
-This will tell @allonsy to update the package (most likely minimal intervention necessary). There is a button on the right hand side menu to flag the package.
+This will tell [allonsy](https://github.com/allonsy) to update the package (most likely minimal intervention necessary). There is a button on the right hand side menu to flag the package.
 
 
 ### Debian Based Distributions
