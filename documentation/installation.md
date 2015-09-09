@@ -2,6 +2,7 @@
 
 Git Town runs anywhere Git and [Bash](https://www.gnu.org/software/bash/bash.html) run.
 
+## Mac OS X
 
 <table>
   <tr>
@@ -70,6 +71,18 @@ Git Town runs anywhere Git and [Bash](https://www.gnu.org/software/bash/bash.htm
   </tr>
 </table>
 
+## Linux
+
+### Arch Linux
+ * git-town is available in the aur [here](https://aur.archlinux.org/packages/git-town/)
+
+### Debian Based
+ * There is a deb file hosted [here](www.iamawesome.com)
+ * either double click on the deb file (Ubuntu or mint) or run `dpkg -i path_to_deb.deb` on the command line (all distros)
+ * the deb file SHA1 hash is: 1234
+
+### Redhat/Fedora based
+ * rpm files are coming soon!
 
 #### Install autocompletion
 
